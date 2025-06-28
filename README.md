@@ -1,7 +1,8 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://i.postimg.cc/d3ztgWK6/2223.png" alt="Mohamed Said GitHub Avatar" />
+  <img src="https://i.postimg.cc/d3ztgWK6/2223.png" alt="Mohamed Said GitHub Avatar" width="120" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm <span style="color:#6e57e0;">Mohamed Said</span></h1>
 <h3 align="center">⚙️ Backend Developer | API Specialist | Node.js Expert</h3>
