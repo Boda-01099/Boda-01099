@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://i.postimg.cc/x8dz9phS/Whats-App-Image-2025-06-19-at-21-58-09-31ca546d.jpg" alt="Mohamed Said GitHub Avatar" />
+  <img src="https://i.postimg.cc/d3ztgWK6/2223.png" alt="Mohamed Said GitHub Avatar" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#6e57e0;">Mohamed Said</span></h1>
